@@ -81,7 +81,8 @@ A machine learning and deep learning-based system that predicts the likelihood o
 ## 📫 Contact
 
 - GitHub: https://github.com/nymprf-ctrl  
-- Email: nym.prf@gmail.com  
+- Email: nym.prf@gmail.com
+- Outlook: nym.prf@outlook.com  
 - LinkedIn: [https://linkedin.com/in/ ](https://www.linkedin.com/in/nymprf?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
