@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Muhammad+Naeem;AI+%7C+ML+Engineer;Deep+Learning+Developer;Final+Year+Project+Developer" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Muhammad+Naeem;Computer+Science+Student;AI+%7C+ML+Enthusiast;Deep+Learning+Developer" />
 
 <img src="https://komarev.com/ghpvc/?username=nymprf-ctrl&style=for-the-badge&color=blue" />
 
@@ -8,37 +8,44 @@
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Student (Final Year Project Developer)  
-- 🤖 AI, Machine Learning & Deep Learning Enthusiast  
-- 📊 Passionate about Data Science and Predictive Modeling  
-- 🫀 Working on **Heart Disease Detection using ML & DL**  
-- 🚀 Focused on building real-world intelligent healthcare systems  
-- 🌱 Exploring Generative AI, MLOps & Advanced AI Systems  
+
+I am a **Computer Science student** with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Learning**. I enjoy solving real-world problems through technology, building intelligent systems, and continuously improving my technical skills through academic and practical projects.
+
+* 🎓 Computer Science Student
+* 🤖 Interested in AI, ML, and Deep Learning
+* 📊 Focused on data-driven problem solving
+* 🧠 Passionate about intelligent systems and predictive modeling
+* 🚀 Dedicated to building meaningful and practical projects
 
 ---
 
 ## 🫀 Final Year Project
 
-### 🧠 Heart Disease Detection System (ML + DL)
+### **Heart Disease Prediction System using Machine Learning & Deep Learning**
 
-A machine learning and deep learning-based system that predicts the likelihood of heart disease using patient medical data.
+My final year project is a completed healthcare prediction system designed to estimate the risk of heart disease using patient clinical data. The project combines machine learning and deep learning techniques to support early prediction and decision-making.
 
-### 🔬 Project Features:
-- 📊 Data preprocessing & feature engineering  
-- 🤖 Machine Learning models (Random Forest, SVM, Logistic Regression)  
-- 🧠 Deep Learning Neural Network for improved accuracy  
-- 📈 Model evaluation using accuracy, precision, recall, F1-score  
-- 🌐 Ready for deployment as a web-based diagnostic tool  
+### 🔬 Project Highlights
 
-### ⚙️ Tech Stack:
-- Python  
-- Scikit-learn  
-- TensorFlow / Keras  
-- Pandas & NumPy  
-- Matplotlib & Seaborn  
+* 📌 Data collection, cleaning, and preprocessing
+* 🤖 Machine learning model development and comparison
+* 🧠 Deep learning model implementation
+* 📈 Evaluation using accuracy, precision, recall, F1-score, and ROC-AUC
+* 🌐 Designed for practical use in a web-based environment
+
+### ⚙️ Technologies Used
+
+* Python
+* Scikit-learn
+* TensorFlow / Keras
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Flask
 
 ---
 
@@ -46,13 +53,28 @@ A machine learning and deep learning-based system that predicts the likelihood o
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
+
+---
+
+## 📌 Projects & Achievements
+
+* 🫀 **Heart Disease Prediction System** — completed final year project
+* 📊 **Data Analysis Projects** — cleaning, visualization, and interpretation of data
+* 🤖 **Machine Learning Models** — classification and prediction-based implementations
+* 🧠 **Deep Learning Projects** — neural network-based solutions
+* 📚 **Academic Work** — practical experience in research, development, and testing
 
 ---
 
@@ -60,37 +82,36 @@ A machine learning and deep learning-based system that predicts the likelihood o
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Work
 
-- 🫀 Heart Disease Detection (ML + DL Final Year Project)  
-- 🧠 Machine Learning Classification Models  
-- 📊 Data Analysis & Visualization Projects  
-- 🤖 Deep Learning Neural Network Applications  
-- 🌐 Model Deployment with Flask / FastAPI  
+* 🫀 Heart Disease Prediction using ML & DL
+* 📊 Data Preprocessing and Model Evaluation
+* 🤖 Machine Learning Classification Projects
+* 🧠 Deep Learning-Based Prediction Systems
+* 🌐 Flask-Based Web Deployment Projects
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- GitHub: https://github.com/nymprf-ctrl  
-- Email: nym.prf@gmail.com
-- Outlook: nym.prf@outlook.com  
-- LinkedIn: [https://linkedin.com/in/ ](https://www.linkedin.com/in/nymprf?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* GitHub: https://github.com/nymprf-ctrl
+* Email: [nym.prf@gmail.com](mailto:nym.prf@gmail.com)
+* Outlook: [nym.prf@outlook.com](mailto:nym.prf@outlook.com)
+* LinkedIn: [linkedin.com/in/nymprf](https://www.linkedin.com/in/nymprf?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
 <div align="center">
 
-### ⚡ "AI is not the future — it's the present"
+### ⚡ "Turning ideas into intelligent solutions."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer" />
 
 </div>
