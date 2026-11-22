@@ -1,113 +1,182 @@
 
-# Hi, I'm Muhammad Naeem 👋
+<div align="center">
 
-### AI & Machine Learning Engineer | Deep Learning | Healthcare AI | Research
+# Muhammad Naeem
 
-I am a Computer Science graduate from the University of Swat, Pakistan, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+### AI & Machine Learning Engineer | Deep Learning | Healthcare AI
 
-My work focuses on developing data-driven solutions, building predictive models, exploring intelligent systems, and applying AI techniques to real-world problems, particularly in healthcare and medical diagnostics.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Deep+Learning+%26+Neural+Networks;Healthcare+AI+%26+Predictive+Modeling;Building+Intelligent+Data-Driven+Solutions" alt="Typing SVG" />
 
-I enjoy learning new technologies, conducting research, experimenting with machine learning algorithms, and turning ideas into practical applications.
+<p>
+  <a href="https://github.com/nymprf-ctrl">
+    <img src="https://komarev.com/ghpvc/?username=nymprf-ctrl&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/nymprf-ctrl?tab=followers">
+    <img src="https://img.shields.io/github/followers/nymprf-ctrl?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<img align="right" width="350" alt="AI and Coding Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👋 About Me
+
+I am a **Computer Science graduate from the University of Swat, Pakistan**, working in the fields of Artificial Intelligence, Machine Learning, and Deep Learning.
+
+My interests lie in developing intelligent systems, building predictive models, analyzing real-world datasets, and exploring AI-driven solutions to practical problems. My academic and project experience particularly focuses on **healthcare AI, clinical data analysis, and intelligent disease prediction systems**.
+
+I am passionate about research, continuous learning, experimentation, and transforming computational ideas into practical applications.
+
+- 🎓 Computer Science Graduate — University of Swat
+- 🤖 AI & Machine Learning Engineer
+- 🧠 Deep Learning & Neural Network Development
+- 🫀 Healthcare AI & Medical Predictive Modeling
+- 🔬 Research-oriented learning and experimentation
+- 🚀 Building practical AI-powered applications
 
 ---
 
 ## 🔬 Research Interests
 
-- Artificial Intelligence and Machine Learning
-- Deep Learning and Neural Networks
-- Data Science and Predictive Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Research-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Research-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-Medical_Diagnostics-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Science-Predictive_Modeling-00A6A6?style=flat-square" />
+</p>
+
+- Machine Learning and Deep Learning
+- Artificial Intelligence
+- Data Science and Predictive Analytics
 - Healthcare AI and Medical Diagnostics
 - Bioinformatics
-- Intelligent Decision Support Systems
+- Neural Networks and Intelligent Systems
 
 ---
 
-## 💻 Technical Skills
+## 🫀 Featured Research
 
-### Programming & Data Science
-- Python
+### Machine Learning and Deep Learning Approaches for Heart Disease Detection
+
+My final-year research project focused on developing and evaluating machine learning and deep learning approaches for heart disease detection using clinical data.
+
+The research involved data preprocessing, exploratory analysis, feature preparation, model development, performance evaluation, and comparative analysis to investigate the effectiveness of AI techniques for healthcare prediction.
+
+**Research Highlights**
+
+- Clinical dataset preparation and preprocessing
+- Exploratory data analysis and feature analysis
+- Machine learning model development and comparison
+- Artificial Neural Network implementation
+- Deep learning experiments
+- Performance evaluation using Accuracy, Precision, Recall, F1-score, and ROC-AUC
+- Development of a web-based prediction application
+
+**Technologies:** Python, Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Flask
+
+---
+
+## 📄 Publication
+
+### ANN-Based Heart Disease Risk Prediction Using Local Clinical Data
+
+Research exploring Artificial Neural Networks for heart disease risk prediction using locally collected clinical data.
+
+**Status:** Under Review
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages & Data Analysis
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,php,mysql" />
+</p>
+
+### AI, Machine Learning & Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+- Machine Learning Algorithms
+- Deep Learning & Neural Networks
+- Artificial Neural Networks (ANN)
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Predictive Modeling
+
+### Data Science & Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
 - NumPy
 - Pandas
 - Matplotlib
-- SQL
+- Seaborn
+- Exploratory Data Analysis
 
-### Machine Learning & Deep Learning
-- Scikit-learn
-- TensorFlow
-- Keras
-- PyTorch
-- Artificial Neural Networks (ANN)
-- Model Training & Evaluation
-- Feature Engineering
-- Data Preprocessing
+### Development Tools & Technologies
 
-### Web & Application Development
-- Flask
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+</p>
 
-### Tools
+- Flask Application Development
+- SQL & Database Management
 - Git & GitHub
-- Microsoft Office
 - VS Code
+- Microsoft Office
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### ❤️ Heart Disease Detection Using Machine Learning & Deep Learning
-Developed a predictive system using clinical data to investigate heart disease detection through machine learning and deep learning techniques. The project involved data preprocessing, feature analysis, model training, evaluation, and comparative performance analysis.
+### 🫀 Heart Disease Prediction — Machine Learning & Deep Learning
 
-**Technologies:** Python, Scikit-learn, TensorFlow, PyTorch, Flask
+Developed a clinical-data-based heart disease detection system using machine learning and deep learning approaches. Conducted data preprocessing, model development, evaluation, and comparative analysis, and integrated trained models into a Flask-based web application.
+
+**Tech Stack:** Python, Scikit-learn, TensorFlow, Keras, PyTorch, Flask
 
 ---
 
-### 🧪 Cholesterol Level Prediction
-Developed a machine learning-based predictive model for cholesterol level analysis, applying preprocessing, model evaluation, and data visualization techniques.
+### 🧪 Cholesterol Prediction Using Machine Learning
 
-**Technologies:** Python, Machine Learning, Data Analysis
+Developed a predictive modeling project focused on cholesterol-related analysis. Applied data preprocessing, machine learning techniques, evaluation methods, and visualization.
 
-🔗 [View Project](https://github.com/nymprf-ctrl/Cholestrol-prediction-of-Smokers-using-machine-learning)
+🔗 **Repository:** [Cholesterol Prediction Project](https://github.com/nymprf-ctrl/Cholestrol-prediction-of-Smokers-using-machine-learning)
 
 ---
 
 ### 🎁 Donation Management System
-Developed a web-based application to manage donation records for NGOs and donors, featuring user-friendly interfaces and authentication for administrators and contributors.
 
-**Technologies:** PHP, MySQL
+Developed a PHP and MySQL-based web application for managing donation records for NGOs and donors, including user-friendly interfaces and authentication functionality.
 
-🔗 [View Project](https://github.com/nymprf-ctrl/Donation_Management_System_pakistan)
+🔗 **Repository:** [Donation Management System](https://github.com/nymprf-ctrl/Donation_Management_System_pakistan)
 
 ---
 
 ### 📚 Library Management System
-Designed a database application to manage books, student records, and book issue/return operations using forms, queries, and reports.
 
-**Technologies:** Microsoft Access, Database Management
+Designed a database management application for organizing book records, student information, and book issue/return transactions using forms, queries, and reports.
 
-🔗 [View Project](https://github.com/nymprf-ctrl/Library_Management_system_msaccess)
+🔗 **Repository:** [Library Management System](https://github.com/nymprf-ctrl/Library_Management_system_msaccess)
 
 ---
 
 ### 🌐 University of Peshawar Web Portal
-Created a responsive web interface with clean layouts and user-friendly navigation for accessing university information.
 
-**Technologies:** HTML, CSS
+Designed and developed a responsive university web interface using HTML and CSS, with structured layouts and user-friendly navigation.
 
-🔗 [View Project](https://github.com/nymprf-ctrl/University_of_peshawar_website)
-
----
-
-## 📄 Research & Publication
-
-**ANN-Based Heart Disease Risk Prediction Using Local Clinical Data**
-
-Research focused on applying Artificial Neural Networks to heart disease risk prediction using local clinical data.
-
-📌 Publication Status: Under Review
+🔗 **Repository:** [University Web Portal](https://github.com/nymprf-ctrl/University_of_peshawar_website)
 
 ---
 
@@ -123,39 +192,73 @@ Board of Peshawar
 
 ---
 
-## 🏅 Certifications & Training
+## 📜 Certifications & Training
 
-- **AI: Machine Learning and Deep Learning** — Microsoft Azure / Hands-on Training
-- **Google UX Design Certificate** — Coursera
+- **Artificial Intelligence — Machine Learning & Deep Learning**  
+  Hands-on training covering machine learning, deep learning, neural networks, model evaluation, and AI development using Python.
+
+- **Google UX Design Professional Certificate — Coursera**  
+  Training in user-centered design, UX research, wireframing, and prototyping.
 
 ---
 
-## 🌱 Currently Exploring
+## 🏆 Honors & Awards
 
-- Advanced Deep Learning
-- PyTorch
+- Awarded a **two-year scholarship by the University of Swat** to pursue my Bachelor's degree.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=nymprf-ctrl&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced Machine Learning
+- Deep Learning with PyTorch
 - Computer Vision
+- AI Research Methodologies
 - Healthcare AI
-- Research-oriented Machine Learning
-- AI-powered real-world applications
+- Data Science
+- Building and deploying intelligent applications
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/nymprf-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-n-13846a27b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nym.prf@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:nym.prf@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-- **GitHub:** [nymprf-ctrl](https://github.com/nymprf-ctrl)
-- **LinkedIn:** [Muhammad Naeem](https://www.linkedin.com/in/muhammad-n-13846a27b/)
-- **Email:** [nym.prf@gmail.com](mailto:nym.prf@gmail.com)
-- **Outlook:** [nymprf@outlook.com](mailto:nymprf@outlook.com)
+### 💡 Exploring AI. Conducting Research. Building Intelligent Solutions.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D9FF&height=130&section=footer" alt="Footer" />
 
-> *Interested in research, collaboration, and building intelligent solutions through AI and Machine Learning.*
+</div>
