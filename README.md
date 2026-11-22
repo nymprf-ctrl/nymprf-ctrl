@@ -1,117 +1,161 @@
-<div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Muhammad+Naeem;Computer+Science+Student;AI+%7C+ML+Enthusiast;Deep+Learning+Developer" />
+# Hi, I'm Muhammad Naeem 👋
 
-<img src="https://komarev.com/ghpvc/?username=nymprf-ctrl&style=for-the-badge&color=blue" />
+### AI & Machine Learning Engineer | Deep Learning | Healthcare AI | Research
 
-</div>
+I am a Computer Science graduate from the University of Swat, Pakistan, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 
----
+My work focuses on developing data-driven solutions, building predictive models, exploring intelligent systems, and applying AI techniques to real-world problems, particularly in healthcare and medical diagnostics.
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 👨‍💻 About Me
-
-I am a **Computer Science student** with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Learning**. I enjoy solving real-world problems through technology, building intelligent systems, and continuously improving my technical skills through academic and practical projects.
-
-* 🎓 Computer Science Student
-* 🤖 Interested in AI, ML, and Deep Learning
-* 📊 Focused on data-driven problem solving
-* 🧠 Passionate about intelligent systems and predictive modeling
-* 🚀 Dedicated to building meaningful and practical projects
+I enjoy learning new technologies, conducting research, experimenting with machine learning algorithms, and turning ideas into practical applications.
 
 ---
 
-## 🫀 Final Year Project
+## 🔬 Research Interests
 
-### **Heart Disease Prediction System using Machine Learning & Deep Learning**
-
-My final year project is a completed healthcare prediction system designed to estimate the risk of heart disease using patient clinical data. The project combines machine learning and deep learning techniques to support early prediction and decision-making.
-
-### 🔬 Project Highlights
-
-* 📌 Data collection, cleaning, and preprocessing
-* 🤖 Machine learning model development and comparison
-* 🧠 Deep learning model implementation
-* 📈 Evaluation using accuracy, precision, recall, F1-score, and ROC-AUC
-* 🌐 Designed for practical use in a web-based environment
-
-### ⚙️ Technologies Used
-
-* Python
-* Scikit-learn
-* TensorFlow / Keras
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Flask
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Neural Networks
+- Data Science and Predictive Modeling
+- Healthcare AI and Medical Diagnostics
+- Bioinformatics
+- Intelligent Decision Support Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-<div align="center">
+### Programming & Data Science
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### Machine Learning & Deep Learning
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+- Artificial Neural Networks (ANN)
+- Model Training & Evaluation
+- Feature Engineering
+- Data Preprocessing
 
-</div>
+### Web & Application Development
+- Flask
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
----
-
-## 📌 Projects & Achievements
-
-* 🫀 **Heart Disease Prediction System** — completed final year project
-* 📊 **Data Analysis Projects** — cleaning, visualization, and interpretation of data
-* 🤖 **Machine Learning Models** — classification and prediction-based implementations
-* 🧠 **Deep Learning Projects** — neural network-based solutions
-* 📚 **Academic Work** — practical experience in research, development, and testing
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+### Tools
+- Git & GitHub
+- Microsoft Office
+- VS Code
 
 ---
 
-## 🔥 Featured Work
+## 🚀 Featured Projects
 
-* 🫀 Heart Disease Prediction using ML & DL
-* 📊 Data Preprocessing and Model Evaluation
-* 🤖 Machine Learning Classification Projects
-* 🧠 Deep Learning-Based Prediction Systems
-* 🌐 Flask-Based Web Deployment Projects
+### ❤️ Heart Disease Detection Using Machine Learning & Deep Learning
+Developed a predictive system using clinical data to investigate heart disease detection through machine learning and deep learning techniques. The project involved data preprocessing, feature analysis, model training, evaluation, and comparative performance analysis.
 
----
-
-## 📫 Contact Me
-
-* GitHub: https://github.com/nymprf-ctrl
-* Email: [nym.prf@gmail.com](mailto:nym.prf@gmail.com)
-* Outlook: [nym.prf@outlook.com](mailto:nym.prf@outlook.com)
-* LinkedIn: [linkedin.com/in/nymprf](https://www.linkedin.com/in/nymprf?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+**Technologies:** Python, Scikit-learn, TensorFlow, PyTorch, Flask
 
 ---
 
-<div align="center">
+### 🧪 Cholesterol Level Prediction
+Developed a machine learning-based predictive model for cholesterol level analysis, applying preprocessing, model evaluation, and data visualization techniques.
 
-### ⚡ "Turning ideas into intelligent solutions."
+**Technologies:** Python, Machine Learning, Data Analysis
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer" />
+🔗 [View Project](https://github.com/nymprf-ctrl/Cholestrol-prediction-of-Smokers-using-machine-learning)
 
-</div>
+---
+
+### 🎁 Donation Management System
+Developed a web-based application to manage donation records for NGOs and donors, featuring user-friendly interfaces and authentication for administrators and contributors.
+
+**Technologies:** PHP, MySQL
+
+🔗 [View Project](https://github.com/nymprf-ctrl/Donation_Management_System_pakistan)
+
+---
+
+### 📚 Library Management System
+Designed a database application to manage books, student records, and book issue/return operations using forms, queries, and reports.
+
+**Technologies:** Microsoft Access, Database Management
+
+🔗 [View Project](https://github.com/nymprf-ctrl/Library_Management_system_msaccess)
+
+---
+
+### 🌐 University of Peshawar Web Portal
+Created a responsive web interface with clean layouts and user-friendly navigation for accessing university information.
+
+**Technologies:** HTML, CSS
+
+🔗 [View Project](https://github.com/nymprf-ctrl/University_of_peshawar_website)
+
+---
+
+## 📄 Research & Publication
+
+**ANN-Based Heart Disease Risk Prediction Using Local Clinical Data**
+
+Research focused on applying Artificial Neural Networks to heart disease risk prediction using local clinical data.
+
+📌 Publication Status: Under Review
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science (BSCS)**  
+University of Swat, Pakistan  
+2022 – 2026
+
+**Diploma in Information Technology (DIT)**  
+Board of Peshawar  
+2023 – 2024
+
+---
+
+## 🏅 Certifications & Training
+
+- **AI: Machine Learning and Deep Learning** — Microsoft Azure / Hands-on Training
+- **Google UX Design Certificate** — Coursera
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Deep Learning
+- PyTorch
+- Computer Vision
+- Healthcare AI
+- Research-oriented Machine Learning
+- AI-powered real-world applications
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nymprf-ctrl&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nymprf-ctrl&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [nymprf-ctrl](https://github.com/nymprf-ctrl)
+- **LinkedIn:** [Muhammad Naeem](https://www.linkedin.com/in/muhammad-n-13846a27b/)
+- **Email:** [nym.prf@gmail.com](mailto:nym.prf@gmail.com)
+- **Outlook:** [nymprf@outlook.com](mailto:nymprf@outlook.com)
+
+---
+
+> *Interested in research, collaboration, and building intelligent solutions through AI and Machine Learning.*
